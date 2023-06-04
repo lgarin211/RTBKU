@@ -1,0 +1,15 @@
+Hasil Akhir terdapat 2 Group Logo, yaitu : Logo Kebun dan Logo Jus
+
+Logo Kebun : File "Logo Kebun A.jpg" dan "Logo Kebun B.jpg" dikonversi ke PSD dengan layer yang belum disatukan agar masih bisa edit warna/font/resize dll.
+
+Logo Jus : File "Logo Jus.jpg" dikonversi ke PSD dengan layer yang belum disatukan agar masih bisa edit warna/font/resize dll.
+
+NB :
+
+-Khusus Logo Jus, dibuat dengan kontainer bulat sperti logo kebun.
+-Tulisan BETA pada Logo Jus diubah fontnya yg sama dengan tulisan BETA pada Logo Kebun.
+-Hasil akhir terdapat 3 file PSD, 2 file PSD untuk Logo Kebun dan 1 file PSD untuk Logo Jus.
+-Dan file SVG/PNG untuk gambar logo pada Logo Kebun dan Logo Jus serta file Font masing- masing.
+
+File saya sertakan di attachment.
+
