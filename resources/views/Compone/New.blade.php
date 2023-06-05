@@ -39,7 +39,7 @@
                             </p>
                     </div>
                     <div class="col-auto d-none d-lg-block">
-                        <img src="{{url('/storage/'.$item->Poster)}}" alt="" class="img-fluid" style="height: 80%;">
+                        <img src="{{url('/storage/'.$item->Poster)}}" alt="" class="img-fluid" style="height: 80%;width: 200px;object-fit: cover;">
                     </div>
                 </div>
             </div>

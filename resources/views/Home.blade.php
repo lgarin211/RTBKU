@@ -52,6 +52,7 @@
     $lim=3;
     @endphp
     @include("Compone.New")
+    @include("Compone.ARCP")
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
 
@@ -66,7 +67,7 @@
 
     <!-- Template Javascript -->
     <script src="{{url("/Vendor/")}}/js/main.js"></script>
-  <script>
+    <script>
         var url = window.location;
         $('nav a[href="'+ url +'"]').addClass('active');
         $('nav a').filter(function() {
